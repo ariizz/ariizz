@@ -1,10 +1,11 @@
 # <h1 align="center">Ayush Mishra</h1>
 <div align="center"> <i>A passionate programmer</i> </div>
+
 # 💫 About Me:
 🔭 I’m currently working on a data management project and python libraries<br><br>🌱 I’m presently learning Data Science  and Analytics<br><br>🤝 I’m looking for help with Git/GitHub, Data Science, AI/ML<br><br>🌱I'm currently learning python and data analytics<br><br>📫 You can contact me at ayushmishra2906@gmail.com<br><br>⚡Looking forward to learn new skills in AI and Data Science and contribute something valuable to the world
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mishra06) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ayush_only) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmishra2906@gmail.com) 
 
 # 💻 Tech Stack:
