@@ -2,7 +2,7 @@
 <div align="center"> <i>A passionate programmer</i> </div>
 
 # 💫 About Me:
-🔭 I’m currently working on a data management project and python libraries<br><br>🌱 I’m presently learning Data Science  and Analytics<br><br>🤝 I’m looking for help with Git/GitHub, Data Science, AI/ML<br><br>🌱I'm currently learning python and data analytics<br><br>📫 You can contact me at ayushmishra2906@gmail.com<br><br>⚡Looking forward to learn new skills in AI and Data Science and contribute something valuable to the world
+🔭 I’m currently working on a data management project and python libraries<br><br>🌱 I’m presently learning Data Science  and Analytics<br><br>🤝 I’m looking for help with Git/GitHub, Data Science, AI/ML<br><br>✒️I'm currently learning python and data analytics<br><br>📫 You can contact me at ayushmishra2906@gmail.com<br><br>⚡Looking forward to learn new skills in AI and Data Science and contribute something valuable to the world
 
 
 # 🌐 Socials:
