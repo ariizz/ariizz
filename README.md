@@ -1,4 +1,4 @@
-# <align = "center">Aysuh Mishra</align>
+# Aysuh Mishra
 A passionate programmer 
 
 # 💫 About Me:
