@@ -1,6 +1,4 @@
-# <div align="center">
-  <h1>Ayush Mishra</h1>
- </div>
+# <h1 align="center">Ayush Mishra</h1>
 _A passionate programmer_
 
 # 💫 About Me:
